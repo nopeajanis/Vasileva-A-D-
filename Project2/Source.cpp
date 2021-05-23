@@ -6,4 +6,10 @@ int main()
 	int a, b;
 	cout << "Hello, world!" << endl;
 	return 0;
+	/*
+	Blok
+	Blok
+	Blok
+	Blok
+	*/
 }
